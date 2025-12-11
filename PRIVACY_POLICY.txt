@@ -1,0 +1,24 @@
+ClipBot - Informativa Privacy
+
+1. Ambito
+   ClipBot è uno strumento CLI locale. Non gestisce un servizio cloud né raccoglie dati per conto degli autori del progetto.
+
+2. Dati trattati
+   - Contenuti video/clip forniti dall’utente o scaricati da Twitch su iniziativa dell’utente.
+   - Credenziali API inserite dall’utente (es. Twitch, TikTok, YouTube, Instagram).
+   - Metadati generati localmente (log, file di lavoro in workdir).
+
+3. Conservazione
+   Tutti i dati restano nel sistema dell’utente o nei servizi di terze parti scelti dall’utente (es. API TikTok). Il progetto non trasferisce dati a server degli autori.
+
+4. Condivisione
+   Nessuna condivisione automatica con terze parti da parte degli autori. L’utente, pubblicando video tramite le API, condivide contenuti con le piattaforme di destinazione secondo le loro policy.
+
+5. Sicurezza
+   L’utente è responsabile della protezione di credenziali, file `.env` e workdir. Si raccomanda di non committare segreti e di usare sistemi sicuri di gestione segreti.
+
+6. Diritti e responsabilità
+   L’utente mantiene il controllo sui dati e può cancellarli dal proprio sistema in qualsiasi momento. Gli autori non raccolgono né gestiscono dati personali degli utenti.
+
+7. Modifiche
+   L’informativa può essere aggiornata; l’uso continuo dello strumento implica accettazione delle modifiche.
