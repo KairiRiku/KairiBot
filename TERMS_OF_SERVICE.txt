@@ -1,0 +1,19 @@
+ClipBot - Termini di Servizio
+
+1. Descrizione
+   ClipBot è uno strumento CLI per scaricare clip da Twitch, elaborarli (es. sottotitoli, render) e pubblicarli su altre piattaforme. L’uso è riservato a scopi leciti e in conformità con i termini di Twitch e delle piattaforme di destinazione.
+
+2. Licenza d’uso
+   L’utente è responsabile di procurare e mantenere i diritti necessari su contenuti, asset e credenziali API. È vietato l’uso per attività illegali, spam o violazioni di copyright.
+
+3. Dati e credenziali
+   Le credenziali API e gli asset restano sotto il controllo dell’utente. Il progetto non fornisce un servizio gestito e non memorizza dati di terzi su server propri.
+
+4. Responsabilità
+   Il software è fornito “così com’è”, senza garanzie. Gli autori non sono responsabili per danni diretti o indiretti derivanti dall’uso, inclusi blocchi, sospensioni o violazioni di policy delle piattaforme.
+
+5. Conformità piattaforme
+   L’utente deve rispettare le policy di Twitch, TikTok, YouTube, Instagram e altre piattaforme, incluse limitazioni su upload, rate limit e diritti dei contenuti.
+
+6. Modifiche
+   I termini possono essere aggiornati. L’uso continuato dopo le modifiche implica accettazione dei nuovi termini.
